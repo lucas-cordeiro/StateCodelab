@@ -1,3 +1,6 @@
+# Atenção
+Esse projeto é apenas para minha própria consulta sobre alguns aspectos do jetpack compose seguindo o codelab do google.
+
 # Using State in Jetpack Compose Codelab
 
 This folder contains the source code for the [Using State in Jetpack Compose codelab](https://codelabs.developers.google.com/codelabs/android-compose-state).
